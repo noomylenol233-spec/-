@@ -77,6 +77,9 @@ echo "$CONDA_PREFIX"
 ```bash
 python -m pip install --upgrade pip setuptools wheel
 ```
+##记得一定输入这个，是官方的安装指令 后续有兼容问题or下不了再采用后面的补有冲突的部分 主要是jax
+bash install_bindcraft.sh --cuda '12.4' --pkg_manager 'conda'
+
 
 当前成功环境中：
 
