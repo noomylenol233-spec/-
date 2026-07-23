@@ -160,7 +160,7 @@ jaxlib: 0.4.34
 ## 2.7 安装 ColabDesign 及其依赖
 
 ```bash
-pip install colabdesign==1.1.3
+pip install colabdesign==1.1.1
 ```
 
 当前相关关键包包括：
